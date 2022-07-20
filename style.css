@@ -3,9 +3,13 @@
   padding: 0%;
   box-sizing: border-box;
   border: 2px solid sal;
+  font-family: 'Space Mono', monospace;
 }
 
-/* le falta el tipo de letra */
+h1{
+ color:rgba(0, 0, 0, 0.3);
+}
+
 header {
   padding: 1%;
   display: flex;
@@ -63,6 +67,7 @@ img {
 p {
   margin-top: 3%;
   padding: 5%;
+  color:rgba(0, 0, 0, 0.8);
 }
 
 main {
